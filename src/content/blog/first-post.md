@@ -1,6 +1,6 @@
 ---
 title: "Product Pillar Lead | RelateIQ --> Sales Cloud & Einstein (now Agentforce)"
-description: "Lorem ipsum dolor sit amet"
+description: "AI-powered CRM"
 pubDate: "2013-2016"
 heroImage: "/blog-placeholder-3.jpg"
 ---
